@@ -17,17 +17,17 @@ All complex blockchain logic is abstracted in `src/lib/stellar-helper.ts`. **Do 
 - **Transaction History**: Searchable, clean transaction list.
 - **Bonus Features**: Ready-to-use components in `src/components/wallet-features.tsx` (QR Codes, Address Book, etc.).
 
-## � Screenshots
+## 📸 Screenshots
 
-| Wallet Connected                                 | Balance Display                               |
-| ------------------------------------------------ | --------------------------------------------- |
-| ![Wallet Connected](./screenshots/connected.png) | ![Balance Display](./screenshots/balance.png) |
+| Wallet Connected                                              | Balance Display                                              |
+| ------------------------------------------------------------- | ------------------------------------------------------------ |
+| ![Wallet Connected](src/assets/01-wallet-connected-state.png) | ![Balance Display](src/assets/02-balance-conneted-state.png) |
 
-| Successful Transaction                        | Transaction Result                  |
-| --------------------------------------------- | ----------------------------------- |
-| ![Transaction](./screenshots/transaction.png) | ![Result](./screenshots/result.png) |
+| Successful Transaction                          | Transaction Result                                      |
+| ----------------------------------------------- | ------------------------------------------------------- |
+| ![Transaction](src/assets/03-presinged-trx.png) | ![Result](src/assets/04-transaction-sucess-to-user.png) |
 
-## �🚀 Quick Start
+## 🚀 Quick Start
 
 ### 1. Prerequisites
 
